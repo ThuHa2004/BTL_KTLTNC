@@ -1,0 +1,90 @@
+2026-02-12 11:50:36.681799 - Ma hoa chuoi
+2026-02-12 11:50:47.654412 - Giai ma chuoi
+2026-02-12 11:50:53.764673 - Giai ma chuoi
+2026-02-12 11:51:10.466948 - Ma hoa chuoi
+2026-02-12 11:51:26.244733 - Giai ma chuoi
+2026-02-12 11:51:41.311794 - Ma hoa chuoi
+2026-02-12 11:51:50.131133 - Giai ma chuoi
+2026-02-12 11:51:52.174987 - Ma hoa chuoi
+2026-02-12 13:11:55.506503 - Ma hoa chuoi
+2026-02-12 13:12:03.158554 - Giai ma chuoi
+2026-02-12 13:12:11.902165 - Ma hoa chuoi
+2026-02-12 13:12:18.048571 - Ma hoa chuoi
+2026-02-12 13:12:25.885111 - Giai ma chuoi
+2026-02-12 13:14:55.001576 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt
+2026-02-12 13:15:51.600504 - Giai ma file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt.enc
+2026-02-12 13:16:22.103657 - Giai ma chuoi
+2026-02-12 13:16:23.584318 - Giai ma chuoi
+2026-02-12 13:16:24.942055 - Ma hoa chuoi
+2026-02-12 13:16:26.868051 - Giai ma chuoi
+2026-02-12 13:16:41.539506 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt
+2026-02-12 13:17:11.678664 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt
+2026-02-12 13:17:54.190802 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt
+2026-02-12 13:19:05.398338 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt
+2026-02-12 13:19:37.116989 - Giai ma file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt.enc
+2026-02-12 13:24:49.113946 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt | key=12
+2026-02-12 13:25:03.732493 - Giai ma file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt.enc | key=12
+2026-02-12 13:25:48.632011 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt | key=12
+2026-02-12 14:16:29.287172 - Ma hoa chuoi
+2026-02-12 14:16:41.780448 - Giai ma chuoi
+2026-02-12 14:16:49.735941 - Giai ma chuoi
+2026-02-12 14:17:06.818591 - Ma hoa chuoi
+2026-02-12 14:17:10.994019 - Ma hoa chuoi
+2026-02-12 14:17:18.889555 - Ma hoa chuoi
+2026-02-12 14:17:22.759732 - Ma hoa chuoi
+2026-02-12 14:17:33.743875 - Ma hoa chuoi
+2026-02-12 14:17:46.369206 - Giai ma chuoi
+2026-02-12 14:17:53.569665 - Giai ma chuoi
+2026-02-12 14:18:05.337803 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt | algo=Caesar
+2026-02-12 14:18:39.887888 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt | algo=Vigenere
+2026-02-12 14:19:04.789302 - Giai ma file: D:/BAI_TAP_LON/BTL_KTLTNC/file mã hóa test.txt.enc | algo=Vigenere
+2026-02-12 14:19:48.795788 - Ma hoa chuoi
+2026-02-12 14:19:57.050261 - Giai ma chuoi
+2026-02-12 14:20:24.001520 - Giai ma chuoi
+2026-02-12 14:20:24.012998 - Giai ma chuoi
+2026-02-12 14:20:55.925224 - Ma hoa chuoi
+2026-02-12 14:20:59.953087 - Ma hoa chuoi
+2026-02-12 14:21:00.992525 - Ma hoa chuoi
+2026-02-12 14:21:01.983416 - Ma hoa chuoi
+2026-02-12 14:21:05.041034 - Ma hoa chuoi
+2026-02-12 14:21:05.591514 - Ma hoa chuoi
+2026-02-12 14:21:06.427346 - Ma hoa chuoi
+2026-02-12 14:21:06.940788 - Ma hoa chuoi
+2026-02-12 14:21:07.472907 - Ma hoa chuoi
+2026-02-12 14:21:08.054850 - Ma hoa chuoi
+2026-02-12 14:21:08.661187 - Ma hoa chuoi
+2026-02-12 14:21:09.120584 - Ma hoa chuoi
+2026-02-12 14:21:09.578140 - Ma hoa chuoi
+2026-02-12 14:21:10.090601 - Ma hoa chuoi
+2026-02-12 14:21:16.517116 - Ma hoa chuoi
+2026-02-12 14:21:17.246059 - Ma hoa chuoi
+2026-02-12 14:21:17.784025 - Ma hoa chuoi
+2026-02-12 14:21:18.444753 - Ma hoa chuoi
+2026-02-12 14:21:18.995108 - Ma hoa chuoi
+2026-02-12 14:21:19.696164 - Ma hoa chuoi
+2026-02-12 14:21:35.457550 - Giai ma chuoi
+2026-02-12 14:21:46.955283 - Ma hoa chuoi
+2026-02-12 14:21:48.150519 - Giai ma chuoi
+2026-02-12 14:22:00.179826 - Ma hoa chuoi
+2026-02-12 14:22:09.043705 - Giai ma chuoi
+2026-02-12 14:22:15.292950 - Giai ma chuoi
+2026-02-12 14:22:17.980208 - Giai ma chuoi
+2026-02-25 07:41:00.544274 - Ma hoa chuoi
+2026-02-25 07:41:10.907050 - Giai ma chuoi
+2026-02-25 07:42:57.505274 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/mahoa.txt | algo=Caesar
+2026-02-25 07:43:25.415140 - Giai ma file: D:/BAI_TAP_LON/BTL_KTLTNC/mahoa.txt.enc | algo=Caesar
+2026-02-25 08:29:32.982781 - Ma hoa chuoi
+2026-02-25 08:29:54.143761 - Ma hoa chuoi
+2026-02-25 08:33:55.483209 - Ma hoa chuoi
+2026-02-25 08:33:59.471506 - Ma hoa chuoi
+2026-02-25 08:34:19.003740 - Ma hoa file: D:/BAI_TAP_LON/BTL_KTLTNC/mahoa.txt | algo=Caesar
+2026-02-25 08:34:38.036510 - Giai ma file: D:/BAI_TAP_LON/BTL_KTLTNC/mahoa.txt.enc | algo=Caesar
+2026-03-09 15:05:56.319570 - Ma hoa chuoi
+2026-03-09 15:06:13.200854 - Giai ma chuoi
+2026-03-09 15:06:54.791771 - Ma hoa chuoi
+2026-03-09 15:07:10.665764 - Ma hoa chuoi
+2026-03-09 15:08:39.509476 - Giai ma chuoi
+2026-03-13 10:32:19.631169 - Ma hoa chuoi
+2026-03-13 10:33:14.486334 - Giai ma chuoi
+2026-03-13 10:35:57.962255 - Ma hoa chuoi
+2026-03-13 10:36:34.728179 - Giai ma chuoi
